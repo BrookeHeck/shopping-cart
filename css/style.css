@@ -1,1 +1,126 @@
 /* TODO: Make it awesome */
+* {
+  box-sizing: border-box;
+}
+body {
+  /* background-color: antiquewhite; */
+}
+
+body > header {
+  background-color: #2ec4b6;
+  display: flex;
+  justify-content: space-between;
+}
+
+body > header > h1 {
+  font-size: 2rem;
+  margin: 10px;
+}
+main {
+  background-color: antiquewhite;
+}
+
+nav ul {
+  display: flex;
+  margin: 10px;
+}
+nav li {
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin: 10px;
+}
+nav li a {
+  text-decoration: none;
+}
+
+nav li:hover {
+  background-color: #cbf3f0;
+  text-decoration: none;
+}
+
+nav li:nth-child(2) a {
+  /* margin-right: 8px; */
+}
+
+main h1 {
+  background-color: antiquewhite;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+ol li {
+  font-size: 1.2rem;
+  margin: 10px;
+}
+
+fieldset {
+  margin: 10px;
+  border: 3px solid gray;
+}
+
+fieldset > * {
+  font-size: 1.1rem;
+  margin: 10px;
+}
+
+legend {
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+table {
+  background-color: #ffbf69;
+  /* display:; */
+  margin: auto;
+  padding-bottom: 10px;
+  border: 5px solid black;
+  min-width: 500px;
+}
+
+table thead {
+  background-color: #ff9f1c;
+}
+
+table tbody {
+  /* background-color: gray; */
+}
+
+table td {
+  /* width: fit-content; */
+  border: 2px solid black;
+  text-align: center;
+  margin: auto;
+  padding: 7px;
+
+}
+#cart-container {
+  padding-bottom: 10px;
+}
+
+#cartContents ul {
+  /* padding: 10px; */
+  width: 100%;
+  padding-left: 10px;
+
+}
+
+#cartContents ul {
+  background-color:#cbf3f0 ;
+  padding: 10px;
+}
+
+#cartContents ul li {
+  font-size: 1.2rem;
+  list-style-type:circle ;
+  border: 3px solid white;
+  /* background-color: coral; */
+  padding: 5px;
+  margin: 10px;
+}
+
+footer {
+  background-color: #2ec4b6;
+  padding: 10px;
+}
+
