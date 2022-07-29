@@ -2,14 +2,12 @@
 
 ## Odd Duck Online Store
 
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+We built an application that allows users to add items to a cart and view that cart. Users are able to add items for the home page and remove items from the cart page. This page built a cart, but functionality could be built upon further to add order processing functions.
 
-### Author: Student/Group Name
+### Author: David Suy and Brooke Heck
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* Any Links you used as reference
+* [GitHub Repo](https://github.com/BrookeHeck/shopping-cart)
+* [Webpage](https://brookeheck.github.io/shopping-cart)
 
 ### Reflections and Comments
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
